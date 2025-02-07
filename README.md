@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Subrajit lenka
+### 🚀 Java Developer | Spring Boot | REST APIs | Full Stack Developer
 
-<!--
-**Subrajit07/Subrajit07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on **Java projects & Spring Boot applications**  
+🌱 I’m learning **Microservices, Spring Cloud, and DevOps**  
+💬 Ask me about **Java, Spring Boot, and REST APIs**  
+📫 How to reach me: [LinkedIn](www.linkedin.com/in/subrajit-lenka-86870134b)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack:
+- **Programming:** Java,JavaScript  
+- **Frameworks:** Spring Boot, Hibernate, Spring Cloud  
+- **Databases:** Oracle, MySQL 
+- **Tools & Platforms:** Git, Docker, Jenkins
+
+---
